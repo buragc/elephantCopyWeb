@@ -10,6 +10,14 @@ Lots of products exist today from open source to paid ones. However, I have foun
 
 That is by design, ElephantCopy **ONLY works with (rich or plan) text**.
 
+## How do I trust my password with you?
+
+ElephantCopy does not copy your passwords. Most password managers (1Password etc.) do not use the general clipboard. Instead, they export to a special clipboard. ElephantCopy **only** reads from the **general** clipboard. As long as your password manager respects this convention, ElephantCopy will not get access to your passwords. Unless you manually copy something to the clipboard.
+
+## What data is collected on me?
+
+None. We do not collect any data whatsoever. The only data is collected by Apple to allow for the payment. 
+
 ## Is it free?
 
 You can use ElephantCopy in its free mode without any limitations. The only differnce will be added cards to your copy tray that remind you to buy the full version every now and then. The full price is a one time payment of $5. 
@@ -18,8 +26,9 @@ You can use ElephantCopy in its free mode without any limitations. The only diff
 
 I will be adding the following features: 
 - Customize keyboard navigation shortcuts
-- Dark theme support
-- Export of text to CSV
-- Migration to SQLite
+- Enable dark theme support
+- Migrate to SQLite
+- Add ability to export of text to CSV
+
 
 
