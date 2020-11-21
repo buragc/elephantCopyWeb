@@ -1,37 +1,21 @@
 ## Welcome to ElephantCopy
 
-You can use the [editor on GitHub](https://github.com/buragc/elephantCopyWeb/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ElephantCopy is meant to be a simple utility for people who work with text all day. The intention is to create a keyboard focused UI that just lets you visually see what's on your clipboard, lets you copy something quickly and then gets out of your way. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why another clipboard manager?
 
-### Markdown
+Lots of products exist today from open source to paid ones. However, I have found that privacy of the paid ones were not guaranteed as there were network calls to some data collection sites. The free ones lacked the visuals I wanted. So I decided to write my own. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## I cannot see images and PDF files I copied
 
-```markdown
-Syntax highlighted code block
+That is by design, ElephantCopy **ONLY works with (rich or plan) text**.
 
-# Header 1
-## Header 2
-### Header 3
+## Is it free?
 
-- Bulleted
-- List
+You can use ElephantCopy in its free mode without any limitations. The only differnce will be added cards to your copy tray that remind you to buy the full version every now and then. The full price is a one time payment of $5. 
 
-1. Numbered
-2. List
+## What is next on the roadmap?
 
-**Bold** and _Italic_ and `Code` text
+I will be adding customization to keyboard navigation and dark theme support next. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buragc/elephantCopyWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
