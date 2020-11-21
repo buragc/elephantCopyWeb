@@ -17,7 +17,7 @@ You can use ElephantCopy in its free mode without any limitations. The only diff
 ## What is next on the roadmap?
 
 I will be adding the following features: 
-- Customizable eyboard navigation
+- Customize keyboard navigation shortcuts
 - Dark theme support
 - Export of text to CSV
 - Migration to SQLite
