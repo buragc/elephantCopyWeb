@@ -22,12 +22,15 @@ None. We do not collect any data whatsoever. The only data is collected by Apple
 
 You can use ElephantCopy in its free mode without any limitations. The only differnce will be added cards to your copy tray that remind you to buy the full version every now and then. The full price is a one time payment of $5. 
 
+## Warranties and Disclaimers
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
 ## What is next on the roadmap?
 
 I will be adding the following features: 
 - Customize keyboard navigation shortcuts
 - Enable dark theme support
-- Migrate to SQLite
 - Add ability to export of text to CSV
 
 
