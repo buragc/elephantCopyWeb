@@ -5,10 +5,10 @@ ElephantCopy is meant to be a simple utility for people who work with text all d
 ## What does it look like?
 
 ### Main Screen
-![Image](../blob/master/mainScreen.png?raw=true)
+![](mainScreen.png?raw=true)
 
 ### Settings
-![Image](../blob/master/preferences.png?raw=true)
+![](preferences.png?raw=true)
 
 ## Why another clipboard manager?
 
