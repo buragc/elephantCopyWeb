@@ -12,9 +12,11 @@ ElephantCopy is meant to be a simple utility for people who work with text all d
 ## Why another clipboard manager?
 Lots of products exist today from open source to paid ones. However, I have found that privacy of the paid ones were not guaranteed as there were network calls to some data collection sites. The free ones lacked the visuals I wanted. So I decided to write my own. 
 
+## FAQ
+Visit the [wiki](https://github.com/buragc/elephantCopyWeb/wiki) for FAQs.
 
 ## Terms of Use
-For terms of use, please refer to [Terms of Use Page](https://github.com/buragc/elephantCopyWeb/wiki)
+For terms of use, please refer to [Terms of Use Page](https://github.com/buragc/elephantCopyWeb/wiki/Terms-of-Service)
 
 ## What is next on the roadmap?
 I will be adding the following features: 
