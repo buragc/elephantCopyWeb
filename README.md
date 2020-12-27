@@ -4,7 +4,7 @@ ElephantCopy is meant to be a simple utility for people who work with text all d
 ## What does it look like?
 
 ### Main Screen
-![](mainScreen.png?raw=true)
+![](main_img.jpg?raw=true)
 
 ### Settings
 ![](preferences.png?raw=true)
